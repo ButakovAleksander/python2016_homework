@@ -1,0 +1,4 @@
+../homework/lesson1\temp1.txt
+../homework/lesson1\temp3.txt
+../homework/lesson1\subfolder\subtemp1.txt
+Общее количество найденных слов: 8
